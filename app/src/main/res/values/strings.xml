@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photos</string>
+    <string name="enter_album_name">Enter Album Name</string>
+    <string name="album_name">Album Name</string>
+    <string name="remove_from_album_text">Photo Remove From Album</string>
+    <string name="add_to_album_text">Photo Added To Album</string>
+    <string name="fragment_album_list_title">Albums</string>
+    <string name="search_tag_text">Search By Tag</string>
+    <string name="search_by_text">Search By Text</string>
+</resources>
